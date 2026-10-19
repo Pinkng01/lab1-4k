@@ -1,0 +1,12 @@
+.env
+
+# Папка виртуального окружения Python
+hello/
+venv/
+.venv/
+
+# Кэш Python
+__pycache__/
+*.pyc
+
+
